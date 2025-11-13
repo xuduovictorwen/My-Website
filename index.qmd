@@ -1,0 +1,17 @@
+---
+title: "Welcome to My Website"
+---
+
+## About This Site
+
+This is my professional website for my research interest in Biostatistics.
+
+## My Projects
+
+Here are some of my research experiences:
+
+- Penalized Cumulative Probability Models using Cyclical Coordinate Descent
+
+- Patterning Human Kidney Organoids with Synthetic Wnt-Secreting Organizers :)
+
+- Multilevel Modeling Analysis of Equine Cardiac Arrhythmias

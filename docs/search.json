@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a PhD student in Biostatistics at USC, working on distribution prediction models based on outcome ranks."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nPhD in Biostatistics, USC KSOM (2024 to Present)\nBS in Statistics, CMU Dietrich (2020 to 2024)\nBS in Business Administration, CMU Tepper (2020 to 2024)"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\n\nMath\nStatistics\nFood\nGym"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "This is my professional website for my research interest in Biostatistics."
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "This is my professional website for my research interest in Biostatistics."
+  },
+  {
+    "objectID": "index.html#my-projects",
+    "href": "index.html#my-projects",
+    "title": "Welcome to My Website",
+    "section": "My Projects",
+    "text": "My Projects\nHere are some of my research experiences:\n\nPenalized Cumulative Probability Models using Cyclical Coordinate Descent\nPatterning Human Kidney Organoids with Synthetic Wnt-Secreting Organizers :)\nMultilevel Modeling Analysis of Equine Cardiac Arrhythmias"
+  }
+]

@@ -1,0 +1,64 @@
+---
+title: "About Me"
+---
+
+I am a PhD student in Biostatistics at USC, working on distribution prediction models based on outcome ranks.
+
+## Education
+- PhD in Biostatistics, USC KSOM (2024 to Present)
+- BS in Statistics, CMU Dietrich (2020 to 2024)
+- BS in Business Administration, CMU Tepper (2020 to 2024)
+
+## Interests
+- Math
+- Statistics
+- Food
+- Gym
+
+```{r}
+#| echo: false
+plot(NULL, xlim=c(0,10), ylim=c(0,12), asp=1, axes=F, xlab="", ylab="", main="French Bulldog")
+grid()
+
+# Left ear (bat ear)
+points(c(2,2,1.8,1.5,1.3,1.2,1.2,1.3,1.5,1.8,2,2.2,2.3,2.3), 
+       c(8,8.5,9,9.5,9.8,10,10.2,10.4,10.5,10.5,10.4,10.2,9.8,9), pch=20, cex=1)
+
+# Right ear
+points(c(8,8,8.2,8.5,8.7,8.8,8.8,8.7,8.5,8.2,8,7.8,7.7,7.7), 
+       c(8,8.5,9,9.5,9.8,10,10.2,10.4,10.5,10.5,10.4,10.2,9.8,9), pch=20, cex=1)
+
+# Head outline
+points(c(2.5,3,3.5,4,4.5,5,5.5,6,6.5,7,7.5,7.8,8,8,7.8,7.5,7,6.5,6,5.5,5,4.5,4,3.5,3,2.5,2.3), 
+       c(8.5,9,9.3,9.5,9.5,9.5,9.5,9.5,9.3,9,8.5,8,7.5,7,6.5,6,5.8,5.7,5.7,5.7,5.7,5.8,6,6.5,7,7.5,8), 
+       pch=20, cex=1)
+
+# Left eye white
+points(rep(3.5, 8), seq(7.5,8.5,length=8), pch=20, cex=2, col="white")
+# Left eye black
+points(c(3.5,3.5,3.5), c(7.8,8,8.2), pch=19, cex=2.5)
+# Left eye highlight
+points(3.6, 8.3, pch=19, cex=0.8, col="white")
+
+# Right eye white
+points(rep(6.5, 8), seq(7.5,8.5,length=8), pch=20, cex=2, col="white")
+# Right eye black
+points(c(6.5,6.5,6.5), c(7.8,8,8.2), pch=19, cex=2.5)
+# Right eye highlight
+points(6.6, 8.3, pch=19, cex=0.8, col="white")
+
+# Nose
+points(c(4.5,4.7,5,5.3,5.5), c(6.8,6.9,6.9,6.9,6.8), pch=19, cex=1.5)
+
+# Snout dots (whiskers)
+points(c(4,4.2), c(7,6.8), pch=19, cex=0.5)
+points(c(6,5.8), c(7,6.8), pch=19, cex=0.5)
+
+# Mouth
+points(c(4.3,4.6,5,5.4,5.7), c(6.3,6.1,6,6.1,6.3), pch=20, cex=0.8)
+points(rep(5,5), seq(6.9,6,length=5), pch=20, cex=0.5)
+
+# Body/chest
+points(c(3.5,4,4.5,5,5.5,6,6.5,6.5,6,5.5,5,4.5,4,3.5,3.5), 
+       c(5.5,5,4.5,4.3,4.3,4.5,5,5.5,5.8,5.9,5.9,5.8,5.8,5.8,5.5), pch=20, cex=1.2)
+```
