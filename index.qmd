@@ -6,9 +6,7 @@ title: "Welcome to My Website"
 
 This is my casual website for my research.
 
-## My Projects
-
-Here are some of my research experiences:
+## Research Experiences
 
 - Penalized Cumulative Probability Models using Cyclical Coordinate Descent
 

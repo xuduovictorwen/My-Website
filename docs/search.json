@@ -89,5 +89,12 @@
     "title": "My Projects",
     "section": "Project 2",
     "text": "Project 2\nElastic Net Penalty via Cyclical Coordinate Descent for Cumulative Probability Models (CPMNet)\nI’m developing an R package implementing elastic net regularization for Cumulative Probability Models using Fortran90 in the process…"
+  },
+  {
+    "objectID": "index.html#research-experiences",
+    "href": "index.html#research-experiences",
+    "title": "Welcome to My Website",
+    "section": "Research Experiences",
+    "text": "Research Experiences\n\nPenalized Cumulative Probability Models using Cyclical Coordinate Descent\nPatterning Human Kidney Organoids with Synthetic Wnt-Secreting Organizers :)\nMultilevel Modeling Analysis for Equine Cardiac Arrhythmias"
   }
 ]
