@@ -87,7 +87,7 @@
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "My Projects",
-    "section": "Project 2:",
-    "text": "Project 2:\nElastic Net Penalty via Cyclical Coordinate Descent for Cumulative Probability Models (CPMNet)\nI’m developing an R package implementing elastic net regularization for Cumulative Probability Models using Fortran90 in the process…"
+    "section": "Project 2",
+    "text": "Project 2\nElastic Net Penalty via Cyclical Coordinate Descent for Cumulative Probability Models (CPMNet)\nI’m developing an R package implementing elastic net regularization for Cumulative Probability Models using Fortran90 in the process…"
   }
 ]
