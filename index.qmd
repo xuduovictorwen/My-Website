@@ -14,4 +14,4 @@ Here are some of my research experiences:
 
 - Patterning Human Kidney Organoids with Synthetic Wnt-Secreting Organizers :)
 
-- Multilevel Modeling Analysis of Equine Cardiac Arrhythmias
+- Multilevel Modeling Analysis for Equine Cardiac Arrhythmias

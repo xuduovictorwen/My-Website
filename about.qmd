@@ -5,9 +5,9 @@ title: "About Me"
 I am a PhD student in Biostatistics at USC, working on distribution prediction models based on outcome ranks.
 
 ## Education
-- PhD in Biostatistics, USC KSOM (2024 to Present)
-- BS in Statistics, CMU Dietrich (2020 to 2024)
-- BS in Business Administration, CMU Tepper (2020 to 2024)
+- PhD in Biostatistics, USC Keck from 2024 to Present
+- BS in Statistics, CMU Dietrich from 2020 to 2024
+- BS in Business Administration, CMU Tepper from 2020 to 2024 
 
 ## Interests
 - Math

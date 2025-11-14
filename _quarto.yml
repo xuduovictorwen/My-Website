@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
+  page-footer:
+    left: "Copyright 2025, Victor"
 
 format:
   html:
