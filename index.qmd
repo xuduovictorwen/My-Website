@@ -4,7 +4,7 @@ title: "Welcome to My Website"
 
 ## About This Site
 
-This is my professional website for my research interest in Biostatistics.
+This is my casual website for my research.
 
 ## My Projects
 
