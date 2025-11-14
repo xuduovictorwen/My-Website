@@ -46,7 +46,7 @@
     "href": "projects.html",
     "title": "My Projects",
     "section": "",
-    "text": "We analyzed electrocardiogram recordings from 33 horses (37 total recordings) representing three arrhythmia types: Ventricular Premature Complexes (VPC), Atrial Premature Complexes (APC), and Sinus Arrhythmia (SA). We constructed heart rate interval variables from abnormal heartbeat patterns and conducted exploratory data analysis to assess inter-horse variability. After standardizing variables to control for between-horse differences, we performed ANOVA tests to compare arrhythmia types and applied multilevel modeling to examine the relationship between heart rate changes before and after premature beats. Finally, we utilized K-means and hierarchical clustering analyses to evaluate whether the arrhythmia classifications could be distinguished based on heart rate patterns."
+    "text": "Cardiac Arrhythmia in Equine Health: A Statistical Analysis of Electrocardiogram Data\nWe analyzed electrocardiogram recordings from 33 horses (37 total recordings) representing three arrhythmia types: Ventricular Premature Complexes (VPC), Atrial Premature Complexes (APC), and Sinus Arrhythmia (SA). We constructed heart rate interval variables from abnormal heartbeat patterns and conducted exploratory data analysis to assess inter-horse variability. After standardizing variables to control for between-horse differences, we performed ANOVA tests to compare arrhythmia types and applied multilevel modeling to examine the relationship between heart rate changes before and after premature beats. Finally, we utilized K-means and hierarchical clustering analyses to evaluate whether the arrhythmia classifications could be distinguished based on heart rate patterns."
   },
   {
     "objectID": "projects.html#project-1-multilevel-modeling-analysis-of-equine-cardiac-arrhythmias",
@@ -75,5 +75,19 @@
     "title": "My Projects",
     "section": "Project 2: Elastic Net Penalty via Cyclical Coordinate Descent for Cumulative Probability Models (CPMNet)",
     "text": "Project 2: Elastic Net Penalty via Cyclical Coordinate Descent for Cumulative Probability Models (CPMNet)\nI’m developing an R package implementing elastic net regularization for Cumulative Probability Models using Fortran90 in the process…"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "My Projects",
+    "section": "",
+    "text": "Cardiac Arrhythmia in Equine Health: A Statistical Analysis of Electrocardiogram Data\nWe analyzed electrocardiogram recordings from 33 horses (37 total recordings) representing three arrhythmia types: Ventricular Premature Complexes (VPC), Atrial Premature Complexes (APC), and Sinus Arrhythmia (SA). We constructed heart rate interval variables from abnormal heartbeat patterns and conducted exploratory data analysis to assess inter-horse variability. After standardizing variables to control for between-horse differences, we performed ANOVA tests to compare arrhythmia types and applied multilevel modeling to examine the relationship between heart rate changes before and after premature beats. Finally, we utilized K-means and hierarchical clustering analyses to evaluate whether the arrhythmia classifications could be distinguished based on heart rate patterns."
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "My Projects",
+    "section": "Project 2:",
+    "text": "Project 2:\nElastic Net Penalty via Cyclical Coordinate Descent for Cumulative Probability Models (CPMNet)\nI’m developing an R package implementing elastic net regularization for Cumulative Probability Models using Fortran90 in the process…"
   }
 ]
