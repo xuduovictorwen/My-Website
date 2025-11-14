@@ -44,14 +44,14 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "My Projects",
     "section": "",
     "text": "We analyzed electrocardiogram recordings from 33 horses (37 total recordings) representing three arrhythmia types: Ventricular Premature Complexes (VPC), Atrial Premature Complexes (APC), and Sinus Arrhythmia (SA). We constructed heart rate interval variables from abnormal heartbeat patterns and conducted exploratory data analysis to assess inter-horse variability. After standardizing variables to control for between-horse differences, we performed ANOVA tests to compare arrhythmia types and applied multilevel modeling to examine the relationship between heart rate changes before and after premature beats. Finally, we utilized K-means and hierarchical clustering analyses to evaluate whether the arrhythmia classifications could be distinguished based on heart rate patterns."
   },
   {
     "objectID": "projects.html#project-1-multilevel-modeling-analysis-of-equine-cardiac-arrhythmias",
     "href": "projects.html#project-1-multilevel-modeling-analysis-of-equine-cardiac-arrhythmias",
-    "title": "Projects",
+    "title": "My Projects",
     "section": "",
     "text": "We analyzed electrocardiogram recordings from 33 horses (37 total recordings) representing three arrhythmia types: Ventricular Premature Complexes (VPC), Atrial Premature Complexes (APC), and Sinus Arrhythmia (SA). We constructed heart rate interval variables from abnormal heartbeat patterns and conducted exploratory data analysis to assess inter-horse variability. After standardizing variables to control for between-horse differences, we performed ANOVA tests to compare arrhythmia types and applied multilevel modeling to examine the relationship between heart rate changes before and after premature beats. Finally, we utilized K-means and hierarchical clustering analyses to evaluate whether the arrhythmia classifications could be distinguished based on heart rate patterns."
   }
